@@ -1,4 +1,4 @@
-# SGK Enhancements Documentation
+# SDK Enhancements Documentation
 
 ## Issue #469 — Employee Lifecycle Client API
 The EmployeeLifecycleClient has been implemented in `packages/core/src/employees/lifecycle.ts`.

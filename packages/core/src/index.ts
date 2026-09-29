@@ -234,3 +234,6 @@ export * from "./privacy";
 
 // ── Payout Schedules & Collision Detection ──────────────────────────────────
 export * from "./schedules";
+
+// ── Salary Policy Change Impact Analysis ────────────────────────────────────
+export * from "./salary-policy";
